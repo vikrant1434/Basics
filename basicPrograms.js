@@ -64,6 +64,9 @@ console.log(`celcious temperature in fehreinheit is :${tempInFehren}`);
 let temperatureInFehren = 75
 let temperatureInCelcious = (temperatureInFehren-32)*5/9
 console.log(`celcious to fehrenheit temperature:${temperatureInCelcious}`);
+console.log("temperature in fohrenheit was 75")
+
+
 
 
 
